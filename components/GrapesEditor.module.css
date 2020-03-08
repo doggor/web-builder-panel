@@ -1,0 +1,10 @@
+.grapeseditor {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+/* fix firefox */
+#gjs-clm-add-tag, .gjs-clm-tags-btn {
+    width: 24px;
+}
